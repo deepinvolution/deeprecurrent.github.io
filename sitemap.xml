@@ -2,25 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://deeprecurrent.github.io/about.html</loc>
-    
-    <lastmod>2022-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://deeprecurrent.github.io/2022/05/08/hehuan/</loc>
-    
-    <lastmod>2022-05-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://deeprecurrent.github.io/about/about.html</loc>
     
     <lastmod>2022-05-08</lastmod>
     

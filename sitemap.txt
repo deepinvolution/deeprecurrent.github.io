@@ -1,5 +1,3 @@
-https://deeprecurrent.github.io/about.html
 https://deeprecurrent.github.io/2022/05/08/hehuan/
-https://deeprecurrent.github.io/about/about.html
 https://deeprecurrent.github.io/2022/05/08/hello-world/
 https://deeprecurrent.github.io/
